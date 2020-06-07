@@ -3,18 +3,18 @@
 
 Auto Insurance Fraud detection Project
 
-Data exploration analysis
+### Data exploration analysis
 
 Check correlation, remove unimportant features
 plot graphs to check relation between non-number features and the fraud_Reported
 
-Data_cleaning
+### Data_cleaning
 Standardize data type
 Fill up NA data (min, max, mean, median)
 Standardise the data (strings -> categorial data)
 
 
-Feature engineering [One of the most important steps!!]
+### Feature engineering [One of the most important steps!!]
 Convert existing columns to ones that are more meaningful for learning
 [ auto_year -> vehicle age ]
 [ncident_hour_of_the_day -> using bins to cut them into period of a day]
@@ -61,13 +61,13 @@ Feature hashing scheme
 To solve curse of dimensionality
 
 
-Select the features for training 
+### Select the features for training 
 Check missing data of a column, drop those with high percentage of missing values(it depends on the context)
 One-hot encoding for those categorial data
 Concat selected data together 
 Normalisation
 
-Selection of models 
+### Selection of models 
 Split data set into training and testing
 preliminary training using a base-model to benchmark the accuracy
 Train data on multiple suitable models
@@ -83,12 +83,11 @@ Logistic Regression
 
 Compare performance based on accuracy / precision first
 
-Select one or two best models to further optimise the learning
-Use Grid Search CV to search for the best set of parameter
+### Select one or two best models to further optimise the learning
+Use Grid Search CV / Random Search CV to search for the best set of parameter
 
-Research on other grid search methods
 
-Evaluation and presentation
+### Evaluation and presentation
 Basic performance metric 
 Recall/Precision/ Accuracy/ F1-score
 AUC and ROC curve 
