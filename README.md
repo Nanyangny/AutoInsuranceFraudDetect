@@ -1,6 +1,6 @@
 # AutoInsuranceFraudDetect
 
-This is my very first time to implement a machin learning model.
+This is my very first time to implement a machine learning model.
 
 The dataset is from [kaggle](https://www.kaggle.com/roshansharma/fraud-detection-in-insurance-claims)
 
