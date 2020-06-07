@@ -4,7 +4,7 @@ This is my very first time to implement a machin learning model.
 
 The dataset is from [kaggle](https://www.kaggle.com/roshansharma/fraud-detection-in-insurance-claims)
 
-Most of the code are inspired by [this article](https://medium.com/fraud-investigation-using-machine-learning/fraud-detection-insurance-29d00b521525) and [this article](https://medium.com/fraud-investigation-part-ii/fraud-investigation-part-ii-42062c471db1) and , with some modification on the features and presentation. I also added comments and my understanding on the original code. It is not good to just blindly copy and paste, I did it by studying the code first and undertand the logic and rationale behind each step. 
+Most of the code are inspired by [this article](https://medium.com/fraud-investigation-using-machine-learning/fraud-detection-insurance-29d00b521525) and [this article](https://medium.com/fraud-investigation-part-ii/fraud-investigation-part-ii-42062c471db1), with some modification on the features and presentation. I also added comments and my understanding on the original code. It is not good to just blindly copy and paste, I did it by studying the code first and undertand the logic and rationale behind each step. 
 
 Below is a little summary of what I learned from the article and other related knowledges and pipelines of a machine learning project.
 
